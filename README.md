@@ -1,13 +1,13 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:964/1*t2-FA2PGbzaT-byEv_wPxg.png)](https://miro.medium.com/v2/resize:fit:964/1*t2-FA2PGbzaT-byEv_wPxg.png)
 <h1 align="center">Hi 👋, I'm Ven Chandarathana</h1>
-<h3 align="center">A passionate backend developer from Sri lanka</h3>
+<h3 align="center">A passionate MERN Stack developer from Sri lanka</h3>
 <img align="right" alt="coding" width="400"  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
 
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently Mastering **MERN STACK**
 
-- 💬 Ask me about **Spring,PHP and C#**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **w.chandarathana99@gmail.com**
 
